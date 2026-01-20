@@ -1,0 +1,105 @@
+# 💳 EMI Product Financial Model – Fintech Market Entry Analysis
+
+## Project Context
+This project was developed as part of an **early-stage financial and commercial analysis** for *USI Money*, a fintech exploring market entry with an EMI-based digital payments product similar to **Monzo** and **Revolut**.
+
+The objective was to assess the **commercial feasibility, cost structure, and scalability** of launching an EMI product in a competitive fintech landscape, focusing on both **business customers and individual users**.
+
+This model represents a **semi-detailed initial version**, designed to support strategic discussions rather than serve as a final investor-ready forecast.
+
+---
+
+## Business Objective
+USI Money aimed to:
+- Enter the digital payments and EMI market
+- Compete with established neobanks and fintech players
+- Capture early market share through differentiated pricing and product structure
+
+The key strategic question was:
+> *Is an EMI-based fintech product commercially viable given expected customer growth, pricing, and cost structure?*
+
+---
+
+## Scope of Analysis
+The financial model focuses on:
+- Initial setup and onboarding costs
+- Fixed and variable operating costs
+- Revenue streams from businesses and individuals
+- Customer growth assumptions
+- Unit economics and early profitability dynamics
+
+---
+
+## Key Assumptions
+- Target market includes **both businesses and individual users**
+- Business customers are charged through **subscription-based pricing plans**
+- Individual users incur fees primarily for **physical card issuance**
+- Customer base grows gradually in Year 1, with scalability considered in later periods
+- Costs include technology, operations, compliance, and customer acquisition
+
+> Detailed assumptions are documented separately to allow flexibility and scenario testing.
+
+---
+
+## Model Structure
+
+### 📊 Financial_Model_v1.xlsx
+This file includes:
+- Revenue projections by customer type
+- Fixed monthly cost structure
+- Variable costs linked to customer activity
+- Basic profitability and contribution logic
+- Scenario-ready structure for future iteration
+
+---
+
+### 💰 IF_Pricing.xlsx
+This file outlines:
+- EMI pricing logic
+- Fee structure assumptions
+- Business vs individual pricing differentiation
+- Inputs used directly within the financial model
+
+---
+
+## Analytical Approach
+- Bottom-up cost modelling
+- Clear separation of fixed vs variable costs
+- Revenue modelling aligned with customer behaviour
+- Conservative assumptions suitable for early-stage feasibility analysis
+
+---
+
+## Tools Used
+- Microsoft Excel (financial modelling)
+- Scenario-based planning
+- Unit economics analysis
+- Fintech product pricing logic
+
+---
+
+## Limitations & Next Steps
+This model represents an **initial feasibility analysis** and does not include:
+- Regulatory capital requirements
+- Detailed risk-weighted cost structures
+- Marketing funnel optimisation
+- Investor-grade valuation outputs
+
+Future iterations could incorporate:
+- Advanced scenario analysis
+- Stress testing
+- Multi-year forecasting
+- Sensitivity analysis on pricing and churn
+
+---
+
+## Confidentiality Note
+This repository contains a **sanitised and high-level version** of the financial model.
+
+Certain assumptions, figures, and internal references have been modified or excluded to respect confidentiality.
+
+---
+
+## Author
+**Mahnoor Baloch**  
+*MSc Business Analytics*
